@@ -1,1 +1,2 @@
-# PLOS---Deep-learning-based-automatic-detection-and-counting-of-urediniospores-of-wheat-yellow-rust
+# PLOS Computational Biology --- Automated counting and differentiation of yellow rust spores using deep-learning
+Code will be released soon.
